@@ -1,0 +1,32 @@
+img{
+    width: 200px;
+    height: auto;
+    display: flex;
+    padding: 10px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+    height: auto;
+}
+
+h2{
+    font-size: 25px;
+}
+
+h4{
+    font-size: 19px;
+    width: 100%;
+    padding: 10px;
+}
+
+p{
+    margin: 30px;
+}
+
+#badge{
+    width: 150px;
+    height: 20px;
+}
