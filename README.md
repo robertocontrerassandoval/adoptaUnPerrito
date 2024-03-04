@@ -1,3 +1,7 @@
+no se como carga node-module
+intente de muchas formas pero como son
+muchos archivo no me dejo,
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
